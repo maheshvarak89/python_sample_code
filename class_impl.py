@@ -24,3 +24,6 @@ tom.do_work()
 # Creating object of a class
 maria = Human('Maria', 'Tennis')
 maria.do_work()
+
+print("Accessing class variable with class name: \n")
+print(Human.hm)
